@@ -2,7 +2,7 @@ module github.com/tullo/otel-workshop-instana
 
 go 1.19
 
-require github.com/instana/go-sensor v1.54.0
+require github.com/instana/go-sensor v1.55.0
 
 require (
 	github.com/felixge/httpsnoop v1.0.3 // indirect
