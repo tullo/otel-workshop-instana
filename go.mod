@@ -14,10 +14,9 @@ require (
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
 	github.com/looplab/fsm v1.0.1 // indirect
 	github.com/opentracing/opentracing-go v1.2.0 // indirect
-	github.com/tullo/otel-workshop v1.0.3
 	go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.42.0 // indirect
-	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.42.0 // indirect
-	go.opentelemetry.io/otel v1.16.0 // indirect
-	go.opentelemetry.io/otel/metric v1.16.0 // indirect
-	go.opentelemetry.io/otel/trace v1.16.0 // indirect
+	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.44.0 // indirect
+	go.opentelemetry.io/otel v1.18.0 // indirect
+	go.opentelemetry.io/otel/metric v1.18.0 // indirect
+	go.opentelemetry.io/otel/trace v1.18.0 // indirect
 )
