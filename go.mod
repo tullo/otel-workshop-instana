@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/instana/go-sensor v1.58.0
-	github.com/tullo/otel-workshop/web/fib v1.0.3
+	github.com/tullo/otel-workshop/web/fib v1.0.4
 )
 
 require (
