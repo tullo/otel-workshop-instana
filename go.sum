@@ -31,6 +31,8 @@ github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcU
 github.com/stretchr/testify v1.8.4/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
 github.com/tullo/otel-workshop/web/fib v1.0.3 h1:OO6Fh8xkaT+vJXTpFVrfYwdftaOx0jPFJxoQoSRyw6c=
 github.com/tullo/otel-workshop/web/fib v1.0.3/go.mod h1:X6H/IDwqeHHwdYHbnXvDwHlWdGUYunRINFLncnvV7sw=
+github.com/tullo/otel-workshop/web/fib v1.0.4 h1:Z6tpUYz84JdqbCscg7Xn7ie/kBUphKAfudzXtYKK1cs=
+github.com/tullo/otel-workshop/web/fib v1.0.4/go.mod h1:kfUN07kBvHp8nMqHpXM2SjeYgU+dI/p6vyMdMEzOIWM=
 go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.46.1 h1:gbhw/u49SS3gkPWiYweQNJGm/uJN5GkI/FrosxSHT7A=
 go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.46.1/go.mod h1:GnOaBaFQ2we3b9AGWJpsBa7v1S5RlQzlC3O7dRMxZhM=
 go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.46.1 h1:aFJWCqJMNjENlcleuuOkGAPH82y0yULBScfXcIEdS24=
