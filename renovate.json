@@ -1,17 +1,24 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:base"
+    "config:recommended"
   ],
   "packageRules": [
     {
-      "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
-      "matchPackageNames": ["github.com/instana/go-sensor"],
+      "matchUpdateTypes": [
+        "minor",
+        "patch",
+        "pin",
+        "digest"
+      ],
+      "matchPackageNames": [
+        "github.com/instana/go-sensor"
+      ],
       "automerge": true
     }
   ],
   "automerge": true,
   "automergeType": "branch",
   "automergeStrategy": "rebase",
-  "commitBodyTable": true  
+  "commitBodyTable": true
 }
