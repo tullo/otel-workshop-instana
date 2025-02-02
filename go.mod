@@ -3,7 +3,7 @@ module github.com/tullo/otel-workshop-instana
 go 1.22
 
 require (
-	github.com/instana/go-sensor v1.66.1
+	github.com/instana/go-sensor v1.66.2
 	github.com/tullo/otel-workshop/web/fib v1.0.4
 )
 
