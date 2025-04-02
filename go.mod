@@ -2,7 +2,7 @@ module github.com/tullo/otel-workshop-instana
 
 go 1.23
 
-toolchain go1.24.1
+toolchain go1.24.2
 
 require (
 	github.com/instana/go-sensor v1.67.1
