@@ -5,7 +5,7 @@ go 1.23
 toolchain go1.24.2
 
 require (
-	github.com/instana/go-sensor v1.67.1
+	github.com/instana/go-sensor v1.67.2
 	github.com/tullo/otel-workshop/web/fib v1.0.4
 )
 
@@ -15,7 +15,7 @@ require (
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
-	github.com/looplab/fsm v1.0.1 // indirect
+	github.com/looplab/fsm v1.0.2 // indirect
 	github.com/opentracing/opentracing-go v1.2.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.46.1 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.46.1 // indirect
