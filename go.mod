@@ -5,7 +5,7 @@ go 1.23.0
 toolchain go1.25.0
 
 require (
-	github.com/instana/go-sensor v1.69.1
+	github.com/instana/go-sensor v1.70.0
 	github.com/tullo/otel-workshop/web/fib v1.0.4
 )
 
