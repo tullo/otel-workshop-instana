@@ -58,6 +58,8 @@ github.com/instana/go-sensor v1.68.0 h1:UbCuGBNtuqbezHfyr/Skd8lhCbAGfZJKvTxO7O3+
 github.com/instana/go-sensor v1.68.0/go.mod h1:LbzcA4kgiHJYF4ZWeIcKjVzVVdSvPZVUGNzXyfxFSGg=
 github.com/instana/go-sensor v1.69.1 h1:GfNjei/Pa2RW8/SMETg4wLcI7gbLk5M4DKaQq7r3+cI=
 github.com/instana/go-sensor v1.69.1/go.mod h1:LbzcA4kgiHJYF4ZWeIcKjVzVVdSvPZVUGNzXyfxFSGg=
+github.com/instana/go-sensor v1.70.0 h1:x0Iudr0YQq2P/hPVKHvyAoLmHmVHdv/QtYxlWLMXdPg=
+github.com/instana/go-sensor v1.70.0/go.mod h1:LbzcA4kgiHJYF4ZWeIcKjVzVVdSvPZVUGNzXyfxFSGg=
 github.com/looplab/fsm v1.0.1 h1:OEW0ORrIx095N/6lgoGkFkotqH6s7vaFPsgjLAaF5QU=
 github.com/looplab/fsm v1.0.1/go.mod h1:PmD3fFvQEIsjMEfvZdrCDZ6y8VwKTwWNjlpEr6IKPO4=
 github.com/looplab/fsm v1.0.2 h1:f0kdMzr4CRpXtaKKRUxwLYJ7PirTdwrtNumeLN+mDx8=
