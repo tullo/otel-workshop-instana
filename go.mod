@@ -5,7 +5,7 @@ go 1.23.0
 toolchain go1.25.1
 
 require (
-	github.com/instana/go-sensor v1.70.0
+	github.com/instana/go-sensor v1.71.1
 	github.com/tullo/otel-workshop/web/fib v1.0.4
 )
 
@@ -23,4 +23,5 @@ require (
 	go.opentelemetry.io/otel v1.21.0 // indirect
 	go.opentelemetry.io/otel/metric v1.21.0 // indirect
 	go.opentelemetry.io/otel/trace v1.21.0 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
